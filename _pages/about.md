@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Education"
+title: "Yuzhen Tang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Education
 - Ph.D.: Electrical Engineering, ShanghaiTech University, Chinese Academy of Sciences, 2022 - 2027 (Expected), Advisor: Prof. Dr. Hengzhao Yang.
 - B.S.: Electrical Engineering, China University of Petroleum (East China), 2018 - 2022,  Advisor: Prof. Dr. Wenzhong Ma.
 
