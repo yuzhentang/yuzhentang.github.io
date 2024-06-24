@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Ph.D.: Electrical Engineering, ShanghaiTech University, Chinese Academy of Sciences, 2022 - 2027 (Expected).
-- B.S.: Electrical Engineering, China University of Petroleum (East China), 2018 - 2022.
+- Ph.D.: Electrical Engineering, School of Information Science and Technology, ShanghaiTech University, Chinese Academy of Sciences, 2022 - 2027 (Expected).
+- B.S.: Electrical Engineering, College of New Energy, China University of Petroleum (East China), 2018 - 2022.
 
 # Research Interests
 - Hydrogen systems for power grid applications.
