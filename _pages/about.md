@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Ph.D.: Electrical Engineering, ShanghaiTech University, Chinese Academy of Sciences, 2022 - 2027 (expected).
+- Ph.D.: Electrical Engineering, ShanghaiTech University, Chinese Academy of Sciences, 2022 - 2027 (Expected).
 - B.S.: Electrical Engineering, China University of Petroleum (East China), 2018 - 2022.
 
 # Research Interests
 - Hydrogen systems for power grid applications.
-- Energy management of hydrogen-based hybrid energy storage systems
+- Energy management of hydrogen-based hybrid energy storage systems.
 
 # Papers
 - [1] **Yuzhen Tang**, Hengzhao Yang, Qian Xun, and Marco Liserre, "An energy management framework with  two-stage power allocation strategies for electric-hydrogen energy storage systems," in Proceedings of the 2023  IEEE Energy Conversion Congress and Exposition (ECCE 2023), pp. 216–221, 2023.
