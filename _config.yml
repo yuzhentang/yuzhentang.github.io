@@ -20,7 +20,8 @@ author:
   avatar           : "profile.png"
   name             : "Yuzhen Tang (唐毓振)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student"
+  employer         : "Ph.D. Student"
+  bio              : # "Ph.D. Student"
   location         : "Shanghai, China"
   employer         : # "ShanghaiTech University, Chinese Academy of Sciences"
   uri              : # URL
