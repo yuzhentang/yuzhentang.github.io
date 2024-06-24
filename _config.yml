@@ -18,11 +18,11 @@ google_scholar_stats_use_cdn : true
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuzhen Tang"
+  name             : "Yuzhen Tang (唐毓振)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
   location         : "Shanghai, China"
-  employer         : "ShanghaiTech University"
+  employer         : # "ShanghaiTech University"
   uri              : # URL
   email            : "tangyzh2022@shanghaitech.edu.cn" 
 
