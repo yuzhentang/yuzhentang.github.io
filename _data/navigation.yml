@@ -1,16 +1,16 @@
 # main links links
 main:
-    - title: "Research Interests"
-    url: "/#-Research Interests"
+    #- title: "Research Interests"
+    #url: "/#-Research Interests"
     
-    - title: "Papers"
-    url: "/#-Papers"
+    #- title: "Papers"
+    #url: "/#-Papers"
 
-    - title: "Patents"
-    url: "/#-Patents"
+    #- title: "Patents"
+    #url: "/#-Patents"
     
-    - title: "Service"
-    url: "/#-Service"
+    #- title: "Service"
+    #url: "/#-Service"
 
 
 
