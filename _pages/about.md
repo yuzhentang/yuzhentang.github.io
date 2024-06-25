@@ -27,6 +27,7 @@ redirect_from:
 - [3] 杨恒昭, **唐毓振**, "一种光伏微电网控制方法、装置及系统," 中国发明专利申请, 申请号202310499925.4, 2023.
 
 # Service
+- IEEE Graduate Student Member
 - Reviewer for IEEE Transactions on Industry Applications.
 - Reviewer for IEEE Energy Conversion Congress and Exposition (ECCE).
 - Reviewer for IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG).
