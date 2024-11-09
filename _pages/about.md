@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 # Education
-- Ph.D.: Electrical Engineering, ShanghaiTech University, Chinese Academy of Sciences, 2022 - 2027 (Expected), Advisor: Prof. Hengzhao Yang.
-- B.S.: Electrical Engineering, China University of Petroleum (East China), 2018 - 2022,  Advisor: Prof. Wenzhong Ma.
+- Ph.D.: Electrical Engineering, ShanghaiTech University, Chinese Academy of Sciences, 2022 - Present.
+- B.S.: Electrical Engineering, China University of Petroleum (East China), 2018 - 2022.
 
 # Research Interests
 - Siting, sizing, and energy management of hydrogen systems for power grid applications.
