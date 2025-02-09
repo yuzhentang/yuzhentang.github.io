@@ -13,7 +13,7 @@ redirect_from:
 
 # Research Interests
 - Siting, sizing, and energy management of hydrogen systems in power grids.
-- Modeling, control and optimization of hybrid energy storage systems.
+- Modeling, control, and optimization of hybrid energy storage systems.
 
 # Papers
 - [5] **Yuzhen Tang**, Zhuoqun Zheng, Fanqi Min, Jingying Xie, and Hengzhao Yang, "An optimization framework for component sizing and energy management of hybrid electrolyzer systems considering physical characteristics of alkaline electrolyzers and proton exchange membrane electrolyzers," Renewable Energy, in press. (SCI, JCR Q1 & 中科院一区, IF 9.0)
