@@ -16,10 +16,10 @@ redirect_from:
 - Modeling, control and optimization of hybrid energy storage systems.
 
 # Papers
-- [5] **Yuzhen Tang**, Zhuoqun Zheng, Fanqi Min, Jingying Xie, and Hengzhao Yang, "An optimization framework for component sizing and energy management of hybrid electrolyzer systems considering physical characteristics of alkaline electrolyzers and proton exchange membrane electrolyzers," Renewable Energy, in press. **(SCI, JCR Q1 & 中科院一区, IF 9.0)**
-- [4] **Yuzhen Tang**, Qian Xun, Marco Liserre, and Hengzhao Yang, "Energy management of electric-hydrogen hybrid energy storage systems in photovoltaic microgrids," International Journal of Hydrogen Energy, vol. 80, pp. 1–10, 2024. **(SCI, JCR Q1 & 中科院二区, IF 8.1)**
-- [3] **Yuzhen Tang**, Hengzhao Yang, Qian Xun, and Marco Liserre, "An energy management framework with  two-stage power allocation strategies for electric-hydrogen energy storage systems," in Proceedings of the 2023  IEEE Energy Conversion Congress and Exposition (ECCE 2023), pp. 216–221, 2023. **(EI)**
-- [2] **Yuzhen Tang** and Hengzhao Yang, "A hierarchical energy management framewo rk for power  and hydrogen flows in photovoltaic microgrids with hybrid energy storage systems," in  Proceedings of the 2023 IEEE 14th International Symposium on Power Electronics for  Distributed Generation Systems (PEDG 2023), pp. 871 -875, 2023. **(EI)**
+- [5] **Yuzhen Tang**, Zhuoqun Zheng, Fanqi Min, Jingying Xie, and Hengzhao Yang, "An optimization framework for component sizing and energy management of hybrid electrolyzer systems considering physical characteristics of alkaline electrolyzers and proton exchange membrane electrolyzers," Renewable Energy, in press. (SCI, JCR Q1 & 中科院一区, IF 9.0)
+- [4] **Yuzhen Tang**, Qian Xun, Marco Liserre, and Hengzhao Yang, "Energy management of electric-hydrogen hybrid energy storage systems in photovoltaic microgrids," International Journal of Hydrogen Energy, vol. 80, pp. 1–10, 2024. (SCI, JCR Q1 & 中科院二区, IF 8.1)
+- [3] **Yuzhen Tang**, Hengzhao Yang, Qian Xun, and Marco Liserre, "An energy management framework with  two-stage power allocation strategies for electric-hydrogen energy storage systems," in Proceedings of the 2023  IEEE Energy Conversion Congress and Exposition (ECCE 2023), pp. 216–221, 2023. (EI)
+- [2] **Yuzhen Tang** and Hengzhao Yang, "A hierarchical energy management framewo rk for power  and hydrogen flows in photovoltaic microgrids with hybrid energy storage systems," in  Proceedings of the 2023 IEEE 14th International Symposium on Power Electronics for  Distributed Generation Systems (PEDG 2023), pp. 871 -875, 2023. (EI)
 - [1] 马文忠, 李冠成, 张奎同, 杨淑娟, 魏孟迪, **唐毓振**, 宋玉成, 董磊. "面向能源互联网的多端口DC/DC能源路由器控制策略研究," 物联网学报, vol. 4, no. 04, pp. 32–42, 2020.
 
 # Patents
