@@ -16,6 +16,7 @@ redirect_from:
 - Modeling, control, and optimization of hybrid energy storage systems.
 
 # Papers
+- [7] **Yuzhen Tang**, Qian Xun, Zhuoqun Zheng, Fanqi Min, Chengwei Deng, Jingying Xie, and Hengzhao Yang, "An optimization framework for component sizing and energy management in electric-hydrogen hybrid energy storage systems," IEEE Transactions on Sustainable Energy, in press. (SCI, JCR Q1 & 中科院一区, IF 8.6)
 - [6] **Yuzhen Tang**, Fanqi Min, Zhuoqun Zheng, Chengwei Deng, Jingying Xie, and Hengzhao Yang, "A two-stage energy management framework for minimizing degradation and equivalent hydrogen consumption of electric-hydrogen hybrid energy storage systems in islanded microgrids," IEEE Internet of Things Journal, in press. (SCI, JCR Q1 & 中科院一区, IF 8.2)
 - [5] **Yuzhen Tang**, Zhuoqun Zheng, Fanqi Min, Jingying Xie, and Hengzhao Yang, "An optimization framework for component sizing and energy management of hybrid electrolyzer systems considering physical characteristics of alkaline electrolyzers and proton exchange membrane electrolyzers," Renewable Energy, vol. 243, p. 122555, 2025. (SCI, JCR Q1 & 中科院一区, IF 9.0)
 - [4] **Yuzhen Tang**, Qian Xun, Marco Liserre, and Hengzhao Yang, "Energy management of electric-hydrogen hybrid energy storage systems in photovoltaic microgrids," International Journal of Hydrogen Energy, vol. 80, pp. 1–10, 2024. (SCI, JCR Q1 & 中科院二区, IF 8.1)
