@@ -12,7 +12,7 @@ redirect_from:
 - B.S.: Electrical Engineering, China University of Petroleum (East China), 2018 - 2022.
 
 # Research Interests
-- Siting, sizing, and energy management of hydrogen systems in power grids.
+- Sizing and energy management of electric-hydrogen coupling systems in power grids.
 - Modeling, control, and optimization of hybrid energy storage systems.
 
 # Papers
