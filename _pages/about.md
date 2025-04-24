@@ -39,6 +39,6 @@ redirect_from:
 
 # Service
 - IEEE Graduate Student Member
-- Journal Reviewer: IEEE Transactions on Industry Applications.
-- Conference Reviewer: ECCE, PEDG, and ITEC-AP.
+- Journal Reviewer: IEEE Transactions on Industrial Informatics, IEEE Transactions on Industry Applications.
+- Conference Reviewer: ECCE, PEDG, ITEC-AP.
 
